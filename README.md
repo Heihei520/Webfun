@@ -19,11 +19,12 @@ a   d
 
 ##table
 
-* [welcom](#hello,welcomme-you!)
+- [welcom](#hello,welcomme-you!)
 
-*SS
+- SS
 
-*- [Test3](#Test3)
+- [Test3](#Test3)
+
 ```
     a 1
     b 2
